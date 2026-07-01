@@ -1,13 +1,16 @@
 **AI-Powered Customer Support & Service Automation**
 **Project Overview**
+
 The AI-Powered Customer Support & Service Automation project is designed to improve customer service operations using Salesforce CRM, Salesforce Agentforce, and Prompt Builder. The system automates customer interactions, inspection management, case handling, and AI-generated responses. It reduces manual effort, improves response time, and enhances customer satisfaction through intelligent automation.
  
  **Requirement Analysis & Planning**
+
 **Introduction**
 Customer support teams often spend significant time answering repetitive customer queries, creating inspection summaries manually, and managing support cases. These manual activities reduce productivity and increase response time.
  This project aims to automate these business processes using Salesforce AI technologies, enabling organizations to deliver faster, smarter, and more efficient customer service.
 
 **Business Objectives**
+
 .Automate customer support using AI.
 .Improve customer response time.
 .Reduce manual work for support agents.
@@ -16,6 +19,7 @@ Customer support teams often spend significant time answering repetitive custome
 .Improve overall business productivity.
 
 **Problem Statement**
+
 Organizations face several challenges in customer support:
 .Customers wait a long time for responses.
 .Support agents manually prepare inspection summaries.
@@ -24,6 +28,7 @@ Organizations face several challenges in customer support:
 .Customer service quality depends on agent experience.
 
 **Proposed Solution**
+
 The proposed solution uses Salesforce technologies to automate customer service operations.
  The system will:
  .Use Salesforce Cases to manage customer issues.
@@ -37,28 +42,37 @@ The proposed solution uses Salesforce technologies to automate customer service 
 The project provides the following features:
 
 **Customer Management**
+
 *Register customers
 Store customer information
 View customer details
-Case Management
-Create customer support cases
-Track case status
-Assign cases to agents
-Close completed cases
-Inspection Management
-Create inspection records
-Store inspection results
-Generate AI inspection summaries
-AI Customer Support
-AI-generated responses
-Prompt Builder integration
-Agentforce assistant
-Intelligent recommendations
-Reporting
-Case reports
-Customer reports
-Inspection reports
-Performance dashboard
+
+**Case Management**
+
+.Create customer support cases
+.Track case status
+.Assign cases to agents
+.Close completed cases
+
+**Inspection Management**
+
+.Create inspection records
+.Store inspection results
+.Generate AI inspection summaries
+
+**AI Customer Support**
+
+.AI-generated responses
+.Prompt Builder integration
+.Agentforce assistant
+.Intelligent recommendations
+
+**Reporting**
+
+.Case reports
+.Customer reports
+.Inspection reports
+.Performance dashboard
 Stakeholder Mapping
 Stakeholder	Responsibility
 Customer	Raise support requests
