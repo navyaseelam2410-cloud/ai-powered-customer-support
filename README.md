@@ -6,72 +6,105 @@ The AI-Powered Customer Support & Service Automation project is designed to impr
  **Requirement Analysis & Planning**
 
 **Introduction**
+
 Customer support teams often spend significant time answering repetitive customer queries, creating inspection summaries manually, and managing support cases. These manual activities reduce productivity and increase response time.
+
  This project aims to automate these business processes using Salesforce AI technologies, enabling organizations to deliver faster, smarter, and more efficient customer service.
 
 **Business Objectives**
 
 .Automate customer support using AI.
+
 .Improve customer response time.
+
 .Reduce manual work for support agents.
+
 .Generate inspection summaries automatically.
+
 .Increase customer satisfaction.
+
 .Improve overall business productivity.
 
 **Problem Statement**
 
 Organizations face several challenges in customer support:
+
 .Customers wait a long time for responses.
+
 .Support agents manually prepare inspection summaries.
+
 .Repetitive customer questions consume agent time.
+
 .Case management requires continuous manual monitoring.
+
 .Customer service quality depends on agent experience.
 
 **Proposed Solution**
 
 The proposed solution uses Salesforce technologies to automate customer service operations.
+ 
  The system will:
+ 
  .Use Salesforce Cases to manage customer issues.
+ 
  .Store customer information securely.
+ 
  .Generate AI-powered inspection summaries.
+ 
  .Use Prompt Builder for intelligent responses.
+ 
  .Use Agentforce to answer customer questions.
+ 
  .Track customer requests automatically.
 
  **Functional Scope**
+
 The project provides the following features:
 
 **Customer Management**
 
 *Register customers
+
 Store customer information
+
 View customer details
 
 **Case Management**
 
 .Create customer support cases
+
 .Track case status
+
 .Assign cases to agents
+
 .Close completed cases
 
 **Inspection Management**
 
 .Create inspection records
+
 .Store inspection results
+
 .Generate AI inspection summaries
 
 **AI Customer Support**
 
 .AI-generated responses
+
 .Prompt Builder integration
+
 .Agentforce assistant
+
 .Intelligent recommendations
 
 **Reporting**
 
 .Case reports
+
 .Customer reports
+
 .Inspection reports
+
 .Performance dashboard
 Stakeholder Mapping
 Stakeholder	Responsibility
