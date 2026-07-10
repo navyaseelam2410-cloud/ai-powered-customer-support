@@ -107,11 +107,11 @@ View customer details
 
 .Performance dashboard
 
-Phase 1
+**Phase 1**
 
 Requirement Analysis & Planning
 
-Activities
+**Activities**
 
 Gather business requirements
 
@@ -121,11 +121,11 @@ Define project scope
 
 Prepare project documentation
 
-Phase 2
+**Phase 2**
 
 Backend Development & Configurations
 
-Activities 
+**Activities**
 
 Create Salesforce Objects
 
@@ -137,11 +137,11 @@ Configure Security
 
 Create Validation Rules
 
-Phase 3
+**Phase 3**
 
 UI/UX Development & Customization
 
-Activities
+**Activities**
 
 Lightning App
 
@@ -153,11 +153,11 @@ Record Pages
 
 Navigation
 
-Phase 4
+**Phase 4**
 
 Agentforce & Prompt Builder
 
-Activities
+**Activities**
 
 Configure Prompt Builder
 
@@ -167,11 +167,11 @@ Configure Agentforce
 
 AI Testing
 
-Phase 5
+**Phase 5**
 
 Testing
 
-Activities
+**Activities**
 
 Unit Testing
 
@@ -181,11 +181,11 @@ User Acceptance Testing
 
 Bug Fixing
 
-Phase 6
+**Phase 6**
 
 Deployment
 
-Activities
+**Activities**
 
 Deploy Application
 
