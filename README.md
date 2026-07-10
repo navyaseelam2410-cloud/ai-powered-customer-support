@@ -116,49 +116,59 @@ Gather business requirements
 Identify stakeholders
 Define project scope
 Prepare project documentation
+
 Phase 2
 
 Backend Development & Configurations
 
-Activities
+Activities 
+
 Create Salesforce Objects
 Create Fields
 Configure Relationships
 Configure Security
 Create Validation Rules
+
 Phase 3
 
 UI/UX Development & Customization
 
 Activities
+
 Lightning App
 Page Layouts
 Tabs
 Record Pages
 Navigation
+
 Phase 4
 
 Agentforce & Prompt Builder
 
 Activities
+
 Configure Prompt Builder
 Create AI Prompts
 Configure Agentforce
 AI Testing
+
 Phase 5
 
 Testing
 
 Activities
+
 Unit Testing
 System Testing
 User Acceptance Testing
 Bug Fixing
+
 Phase 6
 
 Deployment
 
 Activities
+
 Deploy Application
 User Training
 Documentation
