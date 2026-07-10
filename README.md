@@ -106,43 +106,7 @@ View customer details
 .Inspection reports
 
 .Performance dashboard
-Stakeholder Mapping
-Stakeholder	Responsibility
-Customer	Raise support requests
-Support Agent	Resolve customer cases
-Manager	Monitor team performance
-Salesforce Administrator	Configure Salesforce
-Business Owner	Monitor business operations
-Salesforce Components
-Standard Objects
-Account
-Contact
-Case
-User
-Custom Objects
-Inspection
-Inspection Report
-AI Summary
-AI Features
-Prompt Builder
-Agentforce
-AI Summary Generation
-Automated Customer Responses
-Intelligent Case Suggestions
-Security Requirements
-Role-based access
-Customer data protection
-Secure authentication
-Permission Sets
-Profiles
-Non-Functional Requirements
-High Availability
-Fast Response Time
-Data Security
-Scalability
-Reliability
-Easy Maintenance
-Execution Roadmap
+
 Phase 1
 
 Requirement Analysis & Planning
